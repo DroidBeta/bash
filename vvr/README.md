@@ -6,4 +6,4 @@ v2, 中间值
 
 适用于debian9+,ubuntu16+
 
-bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/caippx/bash/master/vvr/vvr.bash')
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/DroidBeta/bash/master/vvr/vvr.bash')
